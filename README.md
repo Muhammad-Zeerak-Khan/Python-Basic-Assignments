@@ -1,2 +1,1 @@
-# Python-Basic-Assignments
- 
+A private repository for uploading the assignments provided by iNeuron 
